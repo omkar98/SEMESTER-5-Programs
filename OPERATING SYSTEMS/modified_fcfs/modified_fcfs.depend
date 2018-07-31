@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1533056140 source:c:\semester-5 programs\operating systems\modified_fcfs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
